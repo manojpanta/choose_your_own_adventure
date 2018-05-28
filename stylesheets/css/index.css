@@ -1,0 +1,52 @@
+.nav-bar {
+  display: flex;
+  height: 10%;
+  JUSTIFY-CONTENT: space-around;
+}
+ h5 {
+   text-decoration: underline;
+ }
+.create-button {
+  padding: 5px;
+  background: aliceblue;
+}
+
+.logo {
+  height: 30px;
+  margin-top: 10px;
+}
+
+.second-div {
+
+}
+
+.first-pic {
+  height: 500px;
+  width: 50%;
+  background: url('http://static1.squarespace.com/static/5134cbefe4b0c6fb04df8065/t/59b2f9579f8dce4dd22ccfff/1504901464132/squarespace.jpg?format=1000w');
+  background-size: cover;
+  float: left;
+}
+
+.second-pic {
+  height: 500px;
+  width: 50%;
+  float: left;
+}
+
+.topic {
+  padding: 50px;
+}
+.topic1 {
+  padding-left: 50px;
+}
+.topic2 {
+  display: inline;
+  padding-left: 50px;
+  background: black;
+  color: white;
+}
+
+body {
+  background-color: #ff980073;
+}
