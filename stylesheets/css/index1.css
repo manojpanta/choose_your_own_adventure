@@ -1,0 +1,59 @@
+body {
+  background: aliceblue;
+}
+h4 {
+  padding: 20px;
+  font-size: 40px;
+  color: dimgray;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: normal;
+}
+
+button {
+  BORDER-RADIUS: 15PX;
+  padding: 20px;
+  BACKGROUND: DARKMAGENTA;
+  FONT-SIZE: 20PX;
+}
+
+.second-div {
+  height: 80%;
+  width: 75%;
+  background: url(../images/pic.png);
+  background-size: cover;
+}
+.parentdiv {
+  display: flex;
+}
+.templates {
+  height: 33%;
+  width: 33%;
+  background: url(../images/pic1.png);
+  margin: 15px;
+  margin-top: 33px;
+  background-size: cover;
+  border: 1px solid;
+
+}
+.templates1 {
+  height: 33%;
+  width: 33%;
+  background: url(../images/pic2.png);
+  margin: 15px;
+  margin-top: 33px;
+  background-size: cover;
+  border: 1px solid;
+
+}
+.templates2 {
+  height: 33%;
+  width: 33%;
+  margin: 15px;
+  margin-top: 33px;
+  background: url(../images/pic3.png);
+  background-size: cover;
+  border: 1px solid;
+}
